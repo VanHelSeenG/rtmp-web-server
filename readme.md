@@ -9,6 +9,6 @@
 docker compose up -d
 ```
 2. Запустите ваш Stream:
-   * Укажите адрес RTMP-сервера: rtmp://SERVER_HOST:1935/live
-   * Укажите ключ потока: STEAM_KEY
-3. Проверьте stream: http://SERVER_HOST:8080/stream?key=STREAM_KEY 
+   * Укажите адрес RTMP-сервера: `rtmp://SERVER_HOST:1935/live`
+   * Укажите ключ потока: `STEAM_KEY`
+3. Проверьте stream: `http://SERVER_HOST:8080/stream?key=STREAM_KEY`
